@@ -1,2 +1,2 @@
 # MyArrayList
-My own generic implementation of the List class, using an array backing
+My own generic implementation of Java's List interface, using an array backing
