@@ -45,7 +45,7 @@ public class MyArrayListTest {
     @Test
     public void iteratorTestEnhancedForLoopFullSyntax() {
         array.add("A"); array.add("B"); array.add("C");
-        Iterator iterator = array.iterator();
+        Iterator iterator;
         String testString = "";
 
         for(iterator = array.iterator(); iterator.hasNext();) {
